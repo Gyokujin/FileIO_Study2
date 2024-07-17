@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Work\\Programming\\Study\\FileIO_Study2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|solutionrelative:FileIO_Study2\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|solutionrelative:FileIO_Study2\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|solutionrelative:FileIO_Study2\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|solutionrelative:FileIO_Study2\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{938C2C1C-7897-496A-95B5-38FC94BB920F}|FileIO_Study2\\FileIO_Study2.vcxproj|solutionrelative:FileIO_Study2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Main.cpp",
+              "RelativeDocumentMoniker": "FileIO_Study2\\Main.cpp",
+              "ToolTip": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Main.cpp",
+              "RelativeToolTip": "FileIO_Study2\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T10:37:17.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Input.h",
+              "DocumentMoniker": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Input.h",
+              "RelativeDocumentMoniker": "FileIO_Study2\\Input.h",
+              "ToolTip": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Input.h",
+              "RelativeToolTip": "FileIO_Study2\\Input.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T10:37:19.337Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Output.h",
+              "DocumentMoniker": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Output.h",
+              "RelativeDocumentMoniker": "FileIO_Study2\\Output.h",
+              "ToolTip": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Output.h",
+              "RelativeToolTip": "FileIO_Study2\\Output.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T10:37:19.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Input.cpp",
+              "RelativeDocumentMoniker": "FileIO_Study2\\Input.cpp",
+              "ToolTip": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Input.cpp",
+              "RelativeToolTip": "FileIO_Study2\\Input.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T10:37:17.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Output.cpp",
+              "DocumentMoniker": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Output.cpp",
+              "RelativeDocumentMoniker": "FileIO_Study2\\Output.cpp",
+              "ToolTip": "D:\\Work\\Programming\\Study\\FileIO_Study2\\FileIO_Study2\\Output.cpp",
+              "RelativeToolTip": "FileIO_Study2\\Output.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T10:37:18.621Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
